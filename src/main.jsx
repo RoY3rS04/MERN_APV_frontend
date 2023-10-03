@@ -9,7 +9,7 @@ import ConfirmAccount from './pages/ConfirmAccount.jsx';
 import ForgetPassword from './pages/ForgetPassword.jsx';
 import Register from './pages/Register.jsx';
 import NewPassword from './pages/NewPassword.jsx';
-import { AuthProvider } from './context/AuthProvider.jsx';
+import { AuthProvider } from './context/authProvider.jsx';
 import Protected from './layout/Protected.jsx';
 import ManagePacients from './pages/ManagePatients.jsx';
 import { PatientsProvider } from './context/patientsProvider.jsx';
